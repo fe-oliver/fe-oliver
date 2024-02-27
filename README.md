@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Fernanda Oliveira!
 - 💻 I’m interested in technology, speacially programming.
-- 📖 I’m currently learning Introduction to Computer Science with CS50 from Harvard University.
-- 🌱 Now, my focus is studying and practicing backend.
+- 📖 I'm a Computer Science student.
+- 🌱 Now, I'm learning and practcing programming skills.
 - 🎯 My goals is to become a full-stack software enginner.
 
 
