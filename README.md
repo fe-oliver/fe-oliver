@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Fernanda Oliveira!
 - 💻 I’m interested in technology, speacially programming.
 - 📖 I'm a Computer Science student.
-- 🌱 Now, I'm learning and practcing programming skills.
-- 🎯 My goals is to become a full-stack software enginner.
+- 🎯 My goals is to become full-stack.
 
 
 <!---
