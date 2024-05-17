@@ -2,7 +2,7 @@
 
 ### About me
 > I'm Fernanda Oliveira, a Computer Science's student. 
-Here I'll be sharing my journey into becoming a full-stack developer. Hope you enjoy what you'll see there.
+Here I'll be sharing my journey into becoming a full-stack developer. Hope you enjoy what you'll see there!
 
 ### Stats
 <div>
